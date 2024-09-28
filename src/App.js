@@ -1,11 +1,12 @@
 import React from 'react'
+import Chicago from './components/weather/Chicago';
 
 const App = () => {
   return (
     <>
-    <div>weather App</div>
+    <Chicago/>
     </>
-  )
+  ) 
 }
 
 export default App
